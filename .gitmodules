@@ -1,6 +1,0 @@
-[submodule "internal"]
-    path = internal
-    url = http://169.254.169.254/latest/meta-data/
-[submodule "rebind"]
-    path = rebind
-    url = http://localtest.me/test.git
